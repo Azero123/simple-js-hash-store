@@ -1,6 +1,6 @@
 how to import:
 ```
-const HashStore = require('../src/index.js')
+const HashStore = require('simple-js-hash-store')
 const hashStore = new HashStore('./data')
 ```
 storing data
