@@ -1,0 +1,30 @@
+{
+  "name": "simple-js-hash-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azero123/simple-js-hash-store.git"
+  },
+  "keywords": [
+    "hash",
+    "sha2",
+    "sha2-256",
+    "sha256",
+    "database",
+    "hash-table"
+  ],
+  "author": "Azero123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azero123/simple-js-hash-store/issues"
+  },
+  "homepage": "https://github.com/Azero123/simple-js-hash-store#readme"
+}
