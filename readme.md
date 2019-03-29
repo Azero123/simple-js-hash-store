@@ -19,3 +19,7 @@ if storage is full you can remove a random data from storage
 ```
 hashStore.freeStorage()
 ```
+
+# contribute
+
+bitcoin address: 1KKiniL7QnMPZZLjgGB2Kq1d7zsjUr6TnS 
