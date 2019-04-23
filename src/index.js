@@ -1,4 +1,4 @@
-const sha2 = require('./sha2-256.js')
+const sha2 = require('simple-js-sha2-256')
 const fs = require('fs')
 
 class HashStore {

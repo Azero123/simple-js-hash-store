@@ -1,6 +1,6 @@
 {
   "name": "simple-js-hash-store",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "src/index.js",
   "directories": {
@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/Azero123/simple-js-hash-store/issues"
   },
-  "homepage": "https://github.com/Azero123/simple-js-hash-store#readme"
+  "homepage": "https://github.com/Azero123/simple-js-hash-store#readme",
+  "dependencies": {
+    "simple-js-sha2-256": "^1.0.0"
+  }
 }
